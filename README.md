@@ -66,7 +66,7 @@ Here are some highlights from the dashboard:
 | `/screenshots/` | Folder containing labeled screenshots of both dashboards |
 | `/presentation/` | Folder with downloadable PowerPoint (.pptx) version |
 | `/data/` | Original dataset (CSV files) used for analysis |
-
+| `/videos/` | Folder with local video demo |
 ---
 
 ## 📥 How to Use
@@ -86,8 +86,6 @@ A ready-to-use **PowerPoint deck** is included in the `/presentation` folder. It
 - Dashboard walkthrough
 - Screenshots 
 - Tools used and insights gained
-
-📁 [Download PowerPoint File](presentation/Dashboard_Presentation.pptx)
 
 ---
 
@@ -121,10 +119,7 @@ Special thanks to:
 - **Zain Ul Hassan** – For the source material that started this journey
 - **Ismaila Abdul Mum'in – Data With Decision (YouTube)** – For the structured tutorials that made this possible
 
-
 ---
-
-
 
 
 ## 🙋‍♀️ About Me
